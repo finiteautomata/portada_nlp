@@ -1,0 +1,17 @@
+# PortADA
+
+## NLP Workshop
+
+## Instructions:
+
+0. Install requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+Alternatively, you can use each notebook in Google Colab.
+
+1. Get an OpenAI API key from [here](https://platform.openai.com/api-keys)
+
+2. Run the notebooks in `notebooks` folder
